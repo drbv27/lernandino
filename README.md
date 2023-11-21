@@ -14,6 +14,7 @@ UCI-VIRT-FSF-PT-06-2023-U-LOLC</a>.
     <a href="https://git.bootcampcontent.com/University-of-California---Irvine/UCI-VIRT-FSF-PT-06-2023-U-LOLC/-/tree/main/13-ORM/02-Challenge">
       Challenge
     </a>
+    <span> | </span>
     <a href="https://lernandino-jq4zgppbe-drbv27.vercel.app/">
       Demo
     </a>
