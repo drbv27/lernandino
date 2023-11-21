@@ -47,13 +47,13 @@ UCI-VIRT-FSF-PT-06-2023-U-LOLC</a>.
 
 The following animation shows the application's Home (about):
 
-![screenshot](https://github.com/drbv27/)
+![screenshot](https://github.com/drbv27/lernandino/blob/main/public/About.jpeg)
 
 The following animation shows the application's portfolio page:
-![screenshot](https://github.com/drbv27/)
+![screenshot](https://github.com/drbv27/lernandino/blob/main/public/Portfolio.jpeg)
 
 The following animation shows the application's contact page:
-![screenshot](https://github.com/drbv27/)
+![screenshot](https://github.com/drbv27/lernandino/blob/main/public/contact.jpeg)
 
 <!------------User Story------------>
 ## User Story
