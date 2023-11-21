@@ -9,3 +9,36 @@ body{
 .list{
     list-style-type:circle;
 }
+
+.image_wrapper {
+    position: relative;
+  }
+  
+  .overlay {
+    position: absolute; 
+    background: rgba(57, 57, 57, 0.5);
+    
+    /* center overlay text */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.overlay_4 {
+    left: 0;
+    bottom: 100%;
+    height: 0;
+    width: 100%;
+    overflow: hidden;
+    backdrop-filter: blur(8px) brightness(80%);
+    transition: all .3s ease-in-out;
+  }
+  
+  .image_wrapper:hover .overlay_4 {
+    bottom: 0;
+    height: 100%;
+  }
+
+  .logo{
+    font-family: 'Permanent Marker', cursive;
+  }
